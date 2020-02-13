@@ -2,7 +2,7 @@
 title: Quote 47
 tags: Quote
 categories: Quote
-date: 2019-11-8 0:0:0
+date: 209-11-8 0:0:0
 ---
 
 ## Quote

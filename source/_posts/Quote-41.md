@@ -2,7 +2,7 @@
 title: Quote 41
 tags: Quote
 categories: Quote
-date: 2019-10-4 0:0:0
+date: 209-10-4 0:0:0
 ---
 
 ## Quote
